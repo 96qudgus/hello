@@ -43,7 +43,7 @@ header .toggle {
   position: relative;
   width: 30px;
   height: 30px;
-  background: url(/img/temp02_img/menu.png);
+  background: url('./img/temp02_img/menu.png');
   background-size: 30px;
   background-position: center;
   background-repeat: no-repeat;
@@ -55,7 +55,7 @@ header .toggle {
 }
 
 header .toggle.active {
-  background: url(/img/temp02_img/close.png);
+  background: url('./img/temp02_img/close.png');
   background-size: 25px;
   background-position: center;
   background-repeat: no-repeat;
